@@ -10,13 +10,15 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+
     extend: {
       colors:{
         'preto': '#000000',
         'branco': '#FFFFFF',
         'cinzaescuto': '#666666',
         'cinzaclaro': '#A7A7A7',
-        'azulbutton': '#005490'
+        'azulbutton': '#005490',
+        'backgroundcard': '#9595959E'
       },
 
       width:{
